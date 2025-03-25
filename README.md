@@ -1,2 +1,2 @@
 # quickbrawl-frontend
-React frontend for the QuickBrawl website
+Svelte frontend for the QuickBrawl website
